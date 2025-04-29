@@ -4,11 +4,6 @@
       "id": "a32f836a-76ef-401e-addc-1a2c7edb2ca5",
       "email": "user@example.com",
       "name": "Test User"
-    },
-    {
-      "id": "f9fb",
-      "email": "r5ajrath7@gmail.com",
-      "password": "rj"
     }
   ],
   "bookings": [
